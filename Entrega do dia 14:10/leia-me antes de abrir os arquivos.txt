@@ -1,0 +1,7 @@
+Integrantes do Grupo:
+Thallys Lima Nobre
+Rubem Ribeiro de Barros
+Gabriel Lima e Silva
+
+obs: O Fusion não reconheceu o módulo NEO 06M e o Arduino NANO da biblioteca que baixamos, procuramos na internet o 
+modelo 3D mas não encontramos em lugar algum.
